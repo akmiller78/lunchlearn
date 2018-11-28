@@ -1,0 +1,4 @@
+{:main lunchlearn.main
+ :devcards true
+ :closure-defines
+ {cljs-test-display.core/root-node-id "app_tests"}}

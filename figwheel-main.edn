@@ -1,0 +1,4 @@
+{:css-dirs ["resources/public/css"]
+ :watch-dirs ["src" "tests" "dev"]
+ :extra-main-files {:tests {:main lunchlearn.ui-main-test}
+                    :devcards {:main lunchlearn.devcards}}}

@@ -1,0 +1,11 @@
+html, body {
+  font-size: 16pt;
+}
+
+.highlight {
+  background-color: lightgreen;
+}
+
+.done {
+  text-decoration: line-through;
+}
